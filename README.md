@@ -4,8 +4,9 @@ A new Flutter application.
 
 ## Getting Started
 
-- [ ] Take note
-  
+- [ ] Take note screen
+  - [x] Input fields
+  - [ ] Pass message (cancel, change) to home page
 
 - [ ] Show list
 
