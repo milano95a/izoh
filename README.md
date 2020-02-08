@@ -8,6 +8,6 @@ A new Flutter application.
   - [x] Input fields
   - [ ] Pass message (cancel, change) to home page
 
-- [ ] Show list
+- [ ] Show notes
 
 - [ ] Save notes
