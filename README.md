@@ -4,8 +4,9 @@ A new Flutter application.
 
 ## Getting Started
 
-[] Take note
+- [ ] Take note
+  
 
-[] Show list
+- [ ] Show list
 
-[] Save notes
+- [ ] Save notes
