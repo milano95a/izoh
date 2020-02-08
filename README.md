@@ -6,7 +6,7 @@ A new Flutter application.
 
 - [ ] Take a note
   - [x] Input fields
-  - [ ] Pass message (cancel, change) to home page
+  - [ ] Pass a message (cancel, change) to home page
 
 - [ ] Show notes
 
